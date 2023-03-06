@@ -2,5 +2,6 @@
 
 class Persona {
 	//Declaración de variables
+	a=1;
 }
 
